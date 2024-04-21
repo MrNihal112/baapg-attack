@@ -1,5 +1,4 @@
 target = 9876448998
-# Credits to Ansh Dadwal
 target = str(target)
 true = "true"
 false = "false"
